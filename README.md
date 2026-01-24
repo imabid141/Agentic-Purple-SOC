@@ -104,7 +104,7 @@ docker ps
 
 ## 🔮 Roadmap
 
-* [x] **Phase 1:** Core SIEM Infrastructure & Host Monitoring. [View Deep-Dive]
+* [x] **Phase 1:** Core SIEM Infrastructure & Host Monitoring. [View Deep-Dive](https://github.com/imabid141/Agentic-Purple-SOC/blob/main/documentation/Phase1_Sentinel.md)
 * [ ] **Phase 2:** Local LLM Integration (Ollama & Llama 3.2).
 * [ ] **Phase 3:** Agentic Reasoning with LangGraph.
 * [ ] **Phase 4:** Autonomous Incident Response Playbooks.
