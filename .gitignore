@@ -1,0 +1,21 @@
+# Ignore all private certificates and keys globally
+*.pem
+*.key
+
+# Keep the directory structure but ignore the contents
+single-node/config/wazuh_indexer_ssl_certs/*
+!single-node/config/wazuh_indexer_ssl_certs/.gitkeep
+
+# Ignore data, logs, and temp files
+**/data/
+**/logs/
+*.log
+venv/
+.env
+__pycache__/
+
+# OS files
+.DS_Store
+
+
+agentic_brain
