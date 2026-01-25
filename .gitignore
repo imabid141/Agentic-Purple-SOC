@@ -13,9 +13,7 @@ single-node/config/wazuh_indexer_ssl_certs/*
 venv/
 .env
 __pycache__/
+soc-venv
 
 # OS files
 .DS_Store
-
-
-agentic_brain
